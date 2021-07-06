@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Paula .'
-    content: >
-      In need of mastering knowledge from different fields from web development
-      to data science.
+    content: |
+      Data Scientist | AI enthusiast 
     actions:
       - label: Let's talk
         url: /contact
