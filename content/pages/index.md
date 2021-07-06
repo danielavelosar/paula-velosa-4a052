@@ -27,11 +27,11 @@ sections:
         icon: "instagram",
         new_window: true
             
-                "label": "Github",
-                "url": "https://github.com/pvelosa",
-                "style": "icon",
-                "icon": "github",
-                "new_window": true
+      - label: "Github",
+        url: "https://github.com/pvelosa",
+        style": "icon",
+        icon": "github",
+        new_window": true
             },
             {
                 "label": "LinkedIn",
