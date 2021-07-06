@@ -15,11 +15,11 @@ sections:
         new_window: false
     
      
-                "label": "Twitter",
-                "url": "https://twitter.com/pvelosar",
-                "style": "icon",
-                "icon": "twitter",
-                "new_window": true
+        label": "Twitter",
+        "url": "https://twitter.com/pvelosar",
+        "style": "icon",
+        "icon": "twitter",
+        "new_window": true
             },
             {
                 "label": "Instagram",
