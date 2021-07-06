@@ -7,6 +7,7 @@ sections:
     title: 'Hi, I''m Paula .'
     content: |
       Data Scientist | AI enthusiast 
+      
     actions:
       - label: Let's talk
         url: /contact
