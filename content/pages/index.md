@@ -22,12 +22,11 @@ sections:
         new_window: true
             
       - label: "Instagram",
-        "url": "https://www.instagram.com/danielavelosar",
-        "style": "icon",
-        "icon": "instagram",
-        "new_window": true
-            },
-            {
+        url: "https://www.instagram.com/danielavelosar",
+        style: "icon",
+        icon: "instagram",
+        new_window: true
+            
                 "label": "Github",
                 "url": "https://github.com/pvelosa",
                 "style": "icon",
