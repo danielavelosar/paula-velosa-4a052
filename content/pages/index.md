@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: button
         new_window: false
-      extra:
+    extra:
     - name: 'og:type'
       value: website
       keyName: property
