@@ -37,7 +37,7 @@ sections:
         url: "https://www.linkedin.com/in/paula-daniela-velosa-romero-4392821ab/",
         style: "icon",
         icon: "linkedin",
-        "new_window": true
+        new_window: true
         
 
   - section_id: latest-projects
