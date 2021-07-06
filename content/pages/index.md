@@ -23,7 +23,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Services
-    subtitle: An optional subtitle of the section
+    subtitle: A Freelance Data scientist
     col_number: two
     is_numbered: true
     grid_items:
