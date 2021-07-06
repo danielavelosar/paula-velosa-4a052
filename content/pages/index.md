@@ -21,11 +21,11 @@ sections:
         icon: "twitter",
         new_window: true
             
-                "label": "Instagram",
-                "url": "https://www.instagram.com/danielavelosar",
-                "style": "icon",
-                "icon": "instagram",
-                "new_window": true
+        "label": "Instagram",
+        "url": "https://www.instagram.com/danielavelosar",
+        "style": "icon",
+        "icon": "instagram",
+        "new_window": true
             },
             {
                 "label": "Github",
