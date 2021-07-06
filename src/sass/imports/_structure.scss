@@ -18,7 +18,10 @@
   max-width: 750px;
 }
 
-
+.header--inner {
+    display: flex;
+    flex-direction: column;
+}
 
 .site {
   min-height: 100vh;
