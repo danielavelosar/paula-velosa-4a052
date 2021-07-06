@@ -28,15 +28,6 @@
                 "style": "link"
             },
             {
-                "label": "Draws ",
-                "url": "#",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
