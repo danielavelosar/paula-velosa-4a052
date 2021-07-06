@@ -34,12 +34,11 @@ sections:
         new_window: true
            
         "label": "LinkedIn",
-            "url": "https://www.linkedin.com/in/paula-daniela-velosa-romero-4392821ab/",
-            "style": "icon",
-            "icon": "linkedin",
-            "new_window": true
-        }  
-    
+        "url": "https://www.linkedin.com/in/paula-daniela-velosa-romero-4392821ab/",
+        "style": "icon",
+        "icon": "linkedin",
+        "new_window": true
+        
 
   - section_id: latest-projects
     type: section_portfolio
