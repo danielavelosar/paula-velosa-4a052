@@ -14,7 +14,7 @@ sections:
         style: button
         new_window: false
     
-      - label": "Home",
+      - label: "Home",
                 "url": "/",
                 "style": "link"
             },
