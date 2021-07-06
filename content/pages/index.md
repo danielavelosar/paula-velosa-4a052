@@ -21,7 +21,7 @@ sections:
         icon: "twitter",
         new_window: true
             
-        "label": "Instagram",
+      - label: "Instagram",
         "url": "https://www.instagram.com/danielavelosar",
         "style": "icon",
         "icon": "instagram",
