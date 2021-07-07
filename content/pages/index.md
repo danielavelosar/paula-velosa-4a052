@@ -14,7 +14,7 @@ sections:
         style: button
         new_window: false
     
-     
+    actions:
       - label : Twitter
         url: "https://twitter.com/pvelosar"
         style: icon
