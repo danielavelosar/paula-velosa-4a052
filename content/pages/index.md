@@ -35,12 +35,20 @@ sections:
         url: /contact
         style: button
         new_window: false
-    
+  - section_id: latest-posts
+    type: section_posts
+    title: Data Journalism
+    posts_number: 3
+    col_number: three
+    actions:
+      - label: View Blog
+        url: blog
+        style: button  
   - section_id: latest-projects
     type: section_portfolio
     layout_style: tiles
     title: Recent Work
-    projects_number: 6
+    projects_number: 2
     view_all_label: View All
     view_all_url: portfolio
   - section_id: services
@@ -68,15 +76,7 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - section_id: latest-posts
-    type: section_posts
-    title: Data Journalism
-    posts_number: 3
-    col_number: three
-    actions:
-      - label: View Blog
-        url: blog
-        style: button
+
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
