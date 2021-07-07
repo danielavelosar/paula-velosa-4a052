@@ -15,28 +15,28 @@ sections:
         new_window: false
     
      
-      - label : "Twitter",
-        url: "https://twitter.com/pvelosar",
-        style: "icon",
-        icon: "twitter",
+      - label : Twitter
+        url: "https://twitter.com/pvelosar"
+        style: icon
+        icon: twitter
         new_window: true
             
-      - label: "Instagram",
-        url: "https://www.instagram.com/danielavelosar",
-        style: "icon",
-        icon: "instagram",
+      - label: Instagram
+        url: "https://www.instagram.com/danielavelosar"
+        style: icon
+        icon: instagram
         new_window: true
             
-      - label: "Github",
-        url: "https://github.com/pvelosa",
-        style: "icon",
-        icon: "github",
+      - label: Github
+        url: "https://github.com/pvelosa"
+        style: icon
+        icon: github
         new_window: true
            
-      - label: "LinkedIn",
-        url: "https://www.linkedin.com/in/paula-daniela-velosa-romero-4392821ab/",
-        style: "icon",
-        icon: "linkedin",
+      - label: LinkedIn
+        url: "https://www.linkedin.com/in/paula-daniela-velosa-romero-4392821ab/"
+        style: icon
+        icon: linkedin
         new_window: true
         
 
