@@ -6,16 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Paula .'
     content: |
-      Data Scientist | AI enthusiast 
-      
-    actions:
-      - label: Let's talk
-        url: /contact
-        style: button
-        new_window: false
-    
-    actions:
-      - label : Twitter
+       - label : Twitter
         url: "https://twitter.com/pvelosar"
         style: icon
         icon: twitter
@@ -37,9 +28,14 @@ sections:
         url: "https://www.linkedin.com/in/paula-daniela-velosa-romero-4392821ab/"
         style: icon
         icon: linkedin
-        new_window: true
-        
-
+        new_window: true 
+      
+    actions:
+      - label: Let's talk
+        url: /contact
+        style: button
+        new_window: false
+    
   - section_id: latest-projects
     type: section_portfolio
     layout_style: tiles
