@@ -6,7 +6,29 @@ sections:
     type: section_hero
     title: 'Hi, I''m Paula .'
     content: |
-      Data Scientist | AI enthusiast 
+       - label : Twitter
+        url: "https://twitter.com/pvelosar"
+        style: icon
+        icon: twitter
+        new_window: true
+            
+      - label: Instagram
+        url: "https://www.instagram.com/danielavelosar"
+        style: icon
+        icon: instagram
+        new_window: true
+            
+      - label: Github
+        url: "https://github.com/pvelosa"
+        style: icon
+        icon: github
+        new_window: true
+           
+      - label: LinkedIn
+        url: "https://www.linkedin.com/in/paula-daniela-velosa-romero-4392821ab/"
+        style: icon
+        icon: linkedin
+        new_window: true 
       
     actions:
       - label: Let's talk
@@ -14,32 +36,6 @@ sections:
         style: button
         new_window: false
     
-     
-      - label : "Twitter",
-        url: "https://twitter.com/pvelosar",
-        style: "icon",
-        icon: "twitter",
-        new_window: true
-            
-      - label: "Instagram",
-        url: "https://www.instagram.com/danielavelosar",
-        style: "icon",
-        icon: "instagram",
-        new_window: true
-            
-      - label: "Github",
-        url: "https://github.com/pvelosa",
-        style: "icon",
-        icon: "github",
-        new_window: true
-           
-      - label: "LinkedIn",
-        url: "https://www.linkedin.com/in/paula-daniela-velosa-romero-4392821ab/",
-        style: "icon",
-        icon: "linkedin",
-        new_window: true
-        
-
   - section_id: latest-projects
     type: section_portfolio
     layout_style: tiles
